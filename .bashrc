@@ -1,4 +1,5 @@
 # My bash aliases
+# todo: remap caps lock to esc
 
 # unix helpers
 alias c='clear'
