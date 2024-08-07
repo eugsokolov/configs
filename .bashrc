@@ -14,7 +14,6 @@ alias ps='ps aux'
 alias wrk='c; git branch; echo '--------';  git status; git stash list'
 alias mast='c; git checkout dev; git pull origin master'
 alias rbmst='c; git checkout dev; git pull; git rebase master'
-alias pylint='c; git diff --name-only | xargs flake8'
 
 # python specific
 alias ipy='ipython'
