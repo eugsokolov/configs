@@ -1,6 +1,9 @@
 # My bash aliases
 # todo: remap caps lock to esc
 
+alias pip='pip3'
+alias python='python3'
+
 # unix helpers
 alias c='clear'
 alias ll='ls -la'
